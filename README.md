@@ -1,1 +1,1 @@
-# Inventoru_API
+# Inventory_API
